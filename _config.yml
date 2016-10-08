@@ -1,18 +1,18 @@
 # Site settings
 title: MySpace
 email: yangkl16@mails.tsinghua.edu.cn
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://github.com/Youngkl0726" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 理想主义的文艺程序猿
 
 # Social icons
 facebook: yklguge
 linkedin: 杨昆霖
 github: Youngkl0726
-deviantart: username
-codepen: username
+#deviantart: username
+#codepen: username
 
 footer: © Young
 
