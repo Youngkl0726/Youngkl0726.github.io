@@ -43,12 +43,12 @@ function trigger_alert(){
 
 trigger_alert();
 ```
-``` C
- #include <iostream>  
+``` javascript
+#include <iostream>  
 using namespace std;  
 int main()  
 {
     cout<<"Hello MyWorld XA"<<endl;
     return 0;
 }
-
+```
