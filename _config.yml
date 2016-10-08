@@ -1,7 +1,7 @@
 # Site settings
 title: MySpace
 email: yangkl16@mails.tsinghua.edu.cn
-baseurl: "https://github.com/Youngkl0726" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
