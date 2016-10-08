@@ -6,11 +6,11 @@ comments: true
 categories: Test
 ---
 
-###**Github首推**
+### Github首推
 ---
 
-##测试代码情况
-```C
+## 测试代码情况
+``` C
 #include <iostream>  
 using namespace std;  
 int main()  
