@@ -10,8 +10,8 @@ categories: Test
 ---
 
 ##测试代码情况
-``` c
- #include <iostream>  
+```C
+#include <iostream>  
 using namespace std;  
 int main()  
 {
