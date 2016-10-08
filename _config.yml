@@ -8,13 +8,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: One sentence introducing yourself or what you do
 
 # Social icons
-facebook: 杨昆霖
+facebook: yklguge
 linkedin: 杨昆霖
 github: Youngkl0726
 deviantart: username
 codepen: username
 
-footer: © Taken theme
+footer: © Young
 
 # Build settings
 markdown: kramdown
